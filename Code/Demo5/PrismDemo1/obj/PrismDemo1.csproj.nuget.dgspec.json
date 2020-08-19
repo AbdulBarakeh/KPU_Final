@@ -1,0 +1,174 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\abdul\\Desktop\\KPUEksamen\\Code\\Demo5\\PrismDemo1\\PrismDemo1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\abdul\\Desktop\\KPUEksamen\\Code\\Demo5\\LocationModule\\LocationModule.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abdul\\Desktop\\KPUEksamen\\Code\\Demo5\\LocationModule\\LocationModule.csproj",
+        "projectName": "LocationModule",
+        "projectPath": "C:\\Users\\abdul\\Desktop\\KPUEksamen\\Code\\Demo5\\LocationModule\\LocationModule.csproj",
+        "packagesPath": "C:\\Users\\abdul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abdul\\Desktop\\KPUEksamen\\Code\\Demo5\\LocationModule\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\abdul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Prism.Wpf": {
+              "target": "Package",
+              "version": "[7.2.0.1422, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\abdul\\Desktop\\KPUEksamen\\Code\\Demo5\\PeopleModule\\PeopleModule.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abdul\\Desktop\\KPUEksamen\\Code\\Demo5\\PeopleModule\\PeopleModule.csproj",
+        "projectName": "PeopleModule",
+        "projectPath": "C:\\Users\\abdul\\Desktop\\KPUEksamen\\Code\\Demo5\\PeopleModule\\PeopleModule.csproj",
+        "packagesPath": "C:\\Users\\abdul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abdul\\Desktop\\KPUEksamen\\Code\\Demo5\\PeopleModule\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\abdul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Prism.Wpf": {
+              "target": "Package",
+              "version": "[7.2.0.1422, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\abdul\\Desktop\\KPUEksamen\\Code\\Demo5\\PrismDemo1\\PrismDemo1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abdul\\Desktop\\KPUEksamen\\Code\\Demo5\\PrismDemo1\\PrismDemo1.csproj",
+        "projectName": "PrismDemo1",
+        "projectPath": "C:\\Users\\abdul\\Desktop\\KPUEksamen\\Code\\Demo5\\PrismDemo1\\PrismDemo1.csproj",
+        "packagesPath": "C:\\Users\\abdul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abdul\\Desktop\\KPUEksamen\\Code\\Demo5\\PrismDemo1\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\abdul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\abdul\\Desktop\\KPUEksamen\\Code\\Demo5\\LocationModule\\LocationModule.csproj": {
+                "projectPath": "C:\\Users\\abdul\\Desktop\\KPUEksamen\\Code\\Demo5\\LocationModule\\LocationModule.csproj"
+              },
+              "C:\\Users\\abdul\\Desktop\\KPUEksamen\\Code\\Demo5\\PeopleModule\\PeopleModule.csproj": {
+                "projectPath": "C:\\Users\\abdul\\Desktop\\KPUEksamen\\Code\\Demo5\\PeopleModule\\PeopleModule.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Prism.Unity": {
+              "target": "Package",
+              "version": "[7.2.0.1422, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

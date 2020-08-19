@@ -1,0 +1,9 @@
+C:\Users\abdul\Desktop\KPUEksamen\Code\Demo9\ServiceDemo\bin\Debug\ServiceDemo.exe.config
+C:\Users\abdul\Desktop\KPUEksamen\Code\Demo9\ServiceDemo\bin\Debug\ServiceDemo.exe
+C:\Users\abdul\Desktop\KPUEksamen\Code\Demo9\ServiceDemo\bin\Debug\ServiceDemo.pdb
+C:\Users\abdul\Desktop\KPUEksamen\Code\Demo9\ServiceDemo\obj\Debug\ServiceDemo.DemoService.resources
+C:\Users\abdul\Desktop\KPUEksamen\Code\Demo9\ServiceDemo\obj\Debug\ServiceDemo.ProjectInstaller.resources
+C:\Users\abdul\Desktop\KPUEksamen\Code\Demo9\ServiceDemo\obj\Debug\ServiceDemo.csproj.GenerateResource.cache
+C:\Users\abdul\Desktop\KPUEksamen\Code\Demo9\ServiceDemo\obj\Debug\ServiceDemo.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\KPUEksamen\Code\Demo9\ServiceDemo\obj\Debug\ServiceDemo.exe
+C:\Users\abdul\Desktop\KPUEksamen\Code\Demo9\ServiceDemo\obj\Debug\ServiceDemo.pdb

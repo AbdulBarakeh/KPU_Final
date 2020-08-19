@@ -1,0 +1,9 @@
+C:\Users\abdul\Desktop\KPUEksamen\Code\Demo3\CprDLL\bin\Debug\netcoreapp3.1\CprDLL.deps.json
+C:\Users\abdul\Desktop\KPUEksamen\Code\Demo3\CprDLL\bin\Debug\netcoreapp3.1\CprDLL.dll
+C:\Users\abdul\Desktop\KPUEksamen\Code\Demo3\CprDLL\bin\Debug\netcoreapp3.1\CprDLL.pdb
+C:\Users\abdul\Desktop\KPUEksamen\Code\Demo3\CprDLL\obj\Debug\netcoreapp3.1\CprDLL.csprojAssemblyReference.cache
+C:\Users\abdul\Desktop\KPUEksamen\Code\Demo3\CprDLL\obj\Debug\netcoreapp3.1\CprDLL.AssemblyInfoInputs.cache
+C:\Users\abdul\Desktop\KPUEksamen\Code\Demo3\CprDLL\obj\Debug\netcoreapp3.1\CprDLL.AssemblyInfo.cs
+C:\Users\abdul\Desktop\KPUEksamen\Code\Demo3\CprDLL\obj\Debug\netcoreapp3.1\CprDLL.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\KPUEksamen\Code\Demo3\CprDLL\obj\Debug\netcoreapp3.1\CprDLL.dll
+C:\Users\abdul\Desktop\KPUEksamen\Code\Demo3\CprDLL\obj\Debug\netcoreapp3.1\CprDLL.pdb

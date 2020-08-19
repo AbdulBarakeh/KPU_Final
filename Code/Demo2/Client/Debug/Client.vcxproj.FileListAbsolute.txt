@@ -1,0 +1,6 @@
+C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_TO\Client\Debug\Client.exe
+C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_TO\Client\Debug\Client.pdb
+C:\Users\abdul\Desktop\KPUEksamen\Code\Demo2\Client\Debug\Client.exe
+C:\Users\abdul\Desktop\KPUEksamen\Code\Demo2\Client\Debug\Client.pdb
+C:\Users\abdul\Desktop\KPUEksamen\Code\Demo2\Client\Debug\DLL.dll
+C:\Users\abdul\Desktop\KPUEksamen\Code\Demo2\Client\Debug\DLL.pdb

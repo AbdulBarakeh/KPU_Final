@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\abdul\Desktop\KPUEksamen\Code\Demo9\ServiceDemo\bin\Debug\ServiceDemo.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abdul\Desktop\KPUEksamen\Code\Demo9\ServiceDemo\bin\Debug\ServiceDemo.InstallLog
+   assemblypath = C:\Users\abdul\Desktop\KPUEksamen\Code\Demo9\ServiceDemo\bin\Debug\ServiceDemo.exe
+Installing service DEMOSERVICE...
+Service DEMOSERVICE has been successfully installed.
+Creating EventLog source DEMOSERVICE in log Application...
+Committing assembly 'C:\Users\abdul\Desktop\KPUEksamen\Code\Demo9\ServiceDemo\bin\Debug\ServiceDemo.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abdul\Desktop\KPUEksamen\Code\Demo9\ServiceDemo\bin\Debug\ServiceDemo.InstallLog
+   assemblypath = C:\Users\abdul\Desktop\KPUEksamen\Code\Demo9\ServiceDemo\bin\Debug\ServiceDemo.exe

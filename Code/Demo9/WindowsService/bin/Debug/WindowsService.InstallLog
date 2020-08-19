@@ -1,0 +1,42 @@
+﻿Installing assembly 'C:\Users\abdul\Desktop\KPUEksamen\Code\Demo9\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abdul\Desktop\KPUEksamen\Code\Demo9\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\abdul\Desktop\KPUEksamen\Code\Demo9\WindowsService\bin\Debug\WindowsService.exe
+Installing service KPUNewService...
+Service KPUNewService has been successfully installed.
+Creating EventLog source KPUNewService in log Application...
+Committing assembly 'C:\Users\abdul\Desktop\KPUEksamen\Code\Demo9\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abdul\Desktop\KPUEksamen\Code\Demo9\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\abdul\Desktop\KPUEksamen\Code\Demo9\WindowsService\bin\Debug\WindowsService.exe
+Uninstalling assembly 'C:\Users\abdul\Desktop\KPUEksamen\Code\Demo9\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abdul\Desktop\KPUEksamen\Code\Demo9\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\abdul\Desktop\KPUEksamen\Code\Demo9\WindowsService\bin\Debug\WindowsService.exe
+Removing EventLog source KPUNewService.
+Service KPUNewService is being removed from the system...
+Service KPUNewService was successfully removed from the system.
+Installing assembly 'C:\Users\abdul\Desktop\KPUEksamen\Code\Demo9\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abdul\Desktop\KPUEksamen\Code\Demo9\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\abdul\Desktop\KPUEksamen\Code\Demo9\WindowsService\bin\Debug\WindowsService.exe
+Installing service KPUNewService...
+Service KPUNewService has been successfully installed.
+Creating EventLog source KPUNewService in log Application...
+Committing assembly 'C:\Users\abdul\Desktop\KPUEksamen\Code\Demo9\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abdul\Desktop\KPUEksamen\Code\Demo9\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\abdul\Desktop\KPUEksamen\Code\Demo9\WindowsService\bin\Debug\WindowsService.exe
+Uninstalling assembly 'C:\Users\abdul\Desktop\KPUEksamen\Code\Demo9\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abdul\Desktop\KPUEksamen\Code\Demo9\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\abdul\Desktop\KPUEksamen\Code\Demo9\WindowsService\bin\Debug\WindowsService.exe
+Removing EventLog source KPUNewService.
+Service KPUNewService is being removed from the system...
+Service KPUNewService was successfully removed from the system.
